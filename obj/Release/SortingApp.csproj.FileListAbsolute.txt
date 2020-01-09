@@ -1,0 +1,52 @@
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\bin\Release\SortingApp.exe.config
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\bin\Release\SortingApp.exe
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\bin\Release\SortingApp.pdb
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\MainWindow.g.cs
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\Window1.g.cs
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\Window2.g.cs
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\App.g.cs
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\SortingApp_MarkupCompile.cache
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\SortingApp_MarkupCompile.lref
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\MainWindow.baml
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\Window1.baml
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\Window2.baml
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\SortingApp.g.resources
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\SortingApp.Properties.Resources.resources
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\SortingApp.csproj.GenerateResource.Cache
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\SortingApp.exe
+C:\Users\jason\Documents\Visual Studio 2017\Projects\SortingApp\SortingApp\obj\Release\SortingApp.pdb
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\bin\Release\SortingApp.exe.config
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\bin\Release\SortingApp.exe
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\bin\Release\SortingApp.pdb
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\MainWindow.g.cs
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\Window1.g.cs
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\Window2.g.cs
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\App.g.cs
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp_MarkupCompile.cache
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp_MarkupCompile.lref
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\MainWindow.baml
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\Window1.baml
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\Window2.baml
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.g.resources
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.Properties.Resources.resources
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.csproj.GenerateResource.Cache
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.exe
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.pdb
+C:\Users\jason\Documents\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.csprojAssemblyReference.cache
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\bin\Release\SortingApp.exe
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\bin\Release\SortingApp.exe.config
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\MainWindow.g.cs
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\Window1.g.cs
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\Window2.g.cs
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\App.g.cs
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp_MarkupCompile.cache
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp_MarkupCompile.lref
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\MainWindow.baml
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\Window1.baml
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\Window2.baml
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.g.resources
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.Properties.Resources.resources
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.csproj.GenerateResource.cache
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.exe
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\obj\Release\SortingApp.pdb
+E:\_Chrome_Downloads\SortingApp\SortingApp\SortingApp\SortingApp\bin\Release\SortingApp.pdb
